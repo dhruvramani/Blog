@@ -10,8 +10,8 @@ title: Dhruv's Blog
 email: dhruvramani98@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   High school student with a passion for coding!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/Blog" # the subpath of your site, e.g. /blog
+url: "http://dhruvramani.github.io" # the base hostname & protocol for your site
 twitter_username: dhruvRamani98
 github_username:  dhruvramani
 
